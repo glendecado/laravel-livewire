@@ -1,3 +1,3 @@
 <div wire:poll.keep-alive>
-  {{$phtime}}
+  {{$phTime}}
 </div>
